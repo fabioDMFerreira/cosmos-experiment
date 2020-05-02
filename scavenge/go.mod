@@ -1,4 +1,4 @@
-module github.com/fabiodmferreira/cosmos-experiment/scavenger
+module github.com/fabiodmferreira/cosmos-experiment/scavenge
 
 go 1.13
 
